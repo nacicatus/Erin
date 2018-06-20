@@ -1,9 +1,14 @@
 Erin - Erlang Switcher Script
 
 This applescript returns a list of Erlang versions installed by Homebrew and presents a choice to switch versions. It then opens an erl shell with the chosen version.
+It's just a simple workaround
+
 
 Instructions:
-Run the Application by double-clicking
+1. Clone or download the repository and unzip it
+2. Run Erin.app by double-clicking
+
+:)
 
 Planned future improvements:
 1. To check if Homebrew is installed
