@@ -1,5 +1,4 @@
-# Erin
-*Er*lang *In*staller
+# Erin the *Er*lang *In*staller
 
 ![Erlang Icon](https://learnyousomeerlang.com/static/img/erlang.png)
 
